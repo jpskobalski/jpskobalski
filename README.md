@@ -1,4 +1,5 @@
 👋 Hi, I’m @jpskobalski. I am a Software Engineer working in the Financial Industry. I work with Java and Spring Boot
+
 🌱 I’m currently learning Web Development in HTML CSS and JavaScript 
 
 <!---
