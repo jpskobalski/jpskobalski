@@ -1,6 +1,6 @@
 👋 Hi, I’m Juan Skobalski. 
 
-I have a Mayor in Business, a Mastrer degree in Computer Systems Management and an almost System Analisit (1 year left)
+I have a Mayor in Business, a Mastrer degree in Computer Systems Management and almost a System Analysis Desgree (1 year left)
 
 I am a Software Engineer working in the Financial Industry. 
 I work with Java and Spring Boot.
