@@ -6,8 +6,7 @@ I work with Java and Spring Boot.
 
 🌱 I’m currently learning Web Development in HTML CSS and JavaScript, and also reading a lot of Haskel and functional programming.
 
-Skills
-Java Python HTML5 CSS3 NodeJS Oracle Photoshop Django C# .NET Spring
+[![Skills](https://skills.thijs.gg/icons?i=Java,Python,HTML5,CSS3,Django,C#,.NET,Spring)](https://skills.thijs.gg)
 
 <!---
 jpskobalski/jpskobalski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
